@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🔭 I’m teaching web technologies for design students at eracom.
+
+
 <!--
 **ms-studio/ms-studio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
